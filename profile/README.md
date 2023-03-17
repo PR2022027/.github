@@ -1,12 +1,20 @@
-## Hi there 👋
 
-<!--
+# 📹 VIPPO - PRY20220276
 
-**Here are some ideas to get you started:**
+VIPPO is an AI-powered video editing tool that leverages the Google Cloud Video Intelligence API to simplify and speed up the video editing process. This tool is designed for content creators, social media managers, and marketing teams who want to produce high-quality videos without the need for extensive editing skills. 
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+
+## 🚀 Tech Stack
+
+VIPPO is built with a modern tech stack, including:
+
+- Vue.js for the frontend, with Nuxt.js for server-side rendering and improved SEO
+- Nest.js for the backend, a progressive Node.js framework for building scalable and efficient server-side applications
+- PostgreSQL for the database, a powerful and reliable open-source relational database management system
+- Google Cloud Video Intelligence API for AI-powered video analysis
+
+
+## 📖 License
+
+[MIT](https://choosealicense.com/licenses/mit/)
+
